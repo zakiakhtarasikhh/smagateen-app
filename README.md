@@ -1,11 +1,14 @@
-<div align="center">
+# SMAGATEEN (Sistem Manajemen Kantin SMAN 3 Jombang)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Aplikasi web interaktif yang dirancang khusus untuk mengelola aktivitas kantin dan pencatatan jajan harian siswa di SMAN 3 Jombang.
 
-  <h1>Built with AI Studio</h2>
+ 🚀 Fitur Utama
+- **Autentikasi Pengelola Kantin (1–8):** Sistem login aman menggunakan verifikasi kode OTP berbasis EmailJS.
+- **AI Scan Menu Kantin:** Fitur pemindai berbasis kecerdasan buatan untuk mendeteksi makanan/minuman serta informasi gizinya.
+- **Manajemen Menu Real-time:** Pengelola kantin dapat memperbarui status ketersediaan menu secara langsung (Tersedia / Habis).
+- **Pencatatan Keuangan & Kalori Siswa:** Membantu siswa memantau pola jajan dan kesehatan harian.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+ 🛠️ Teknologi yang Digunakan
+- React & Tailwind CSS
+- EmailJS (untuk layanan OTP)
+- Google AI Studio
